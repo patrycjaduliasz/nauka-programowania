@@ -19,7 +19,7 @@ Aplikacja do nauki programowania z możliwością tworzenia testów (pytania otw
   <li>✔️ Raportowanie wyników (3 najlepsze, ostatnie podejścia, najlepsze w kategorii)</li>
 </ul>
 
-# Skrót apki
+# ▶️ Sprawdź jak działa aplikacja
 
 https://github.com/user-attachments/assets/202ee9ce-53f5-404b-9054-cda72fdf478d
 
