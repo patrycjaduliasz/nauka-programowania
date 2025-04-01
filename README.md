@@ -21,7 +21,5 @@ Aplikacja do nauki programowania z możliwością tworzenia testów (pytania otw
 
 # Skrót apki
 
-[<p align="center">
-  <[img src="https://github.com/patrycjaduliasz/nauka-programowania/blob/main/quiz_gmae.gif" alt="Przykladowe dzialanie apki">
-</p](https://github.com/user-attachments/assets/202ee9ce-53f5-404b-9054-cda72fdf478d)>](https://github.com/user-attachments/assets/202ee9ce-53f5-404b-9054-cda72fdf478d)
+https://github.com/user-attachments/assets/202ee9ce-53f5-404b-9054-cda72fdf478d
 
