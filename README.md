@@ -2,8 +2,10 @@
 Aplikacja do nauki programowania z możliwością tworzenia testów (pytania otwarte i zamknięte) oraz raportowania wyników.
 
 # Technologie
-✅ JDK21+ - Java Version
-✅ MySQL (DataGrip as Workbench)
+<ul>
+  <li><b>✅ JDK21+ - Java Version</b></li>
+  <li><b>✅ MySQL (DataGrip as Workbench)</b></li>
+</ul>
 
 # ⚡️ Funkcjonalnosci
 <ul>
