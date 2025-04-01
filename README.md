@@ -3,7 +3,7 @@ Aplikacja do nauki programowania z możliwością tworzenia testów (pytania otw
 
 # Technologie
 <ul>
-  <li><b>✅ JDK21+ - Java Version</b></li>
+  <li><b>✅ JDK 21+ - Java Version</b></li>
   <li><b>✅ MySQL (DataGrip as Workbench)</b></li>
 </ul>
 
